@@ -12,7 +12,7 @@ export const INDEX = [
                   generated upon each subscription`,
     url: `http://jsbin.com/xosipocoza/1/edit?js,console`,
     tags: [`Observables`, `Rx`, `RxJS`, `Hot`, `Cold`]
-  }
+  },
   {
     name: `angular2-zippy-component`,
     description: `A zippy element built with Angular 2 using decorators and event emitters.`
